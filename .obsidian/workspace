@@ -89,6 +89,7 @@
   "active": "179223035fb55275",
   "lastOpenFiles": [
     "_posts/2022-03-19-sample-post.md",
+    "_posts copy/2019-7-27-super-long-article.md",
     "Templates/Post.md",
     "_posts copy/2019-12-11-pullquotes.md",
     "_posts copy/2019-8-12-code-snippets.md",
@@ -96,7 +97,6 @@
     "_posts/2019-08-08-no-title-posts.md",
     "_posts/2019-02-13-introducing-reverie-jekyll-theme.md",
     "_posts/2019-8-12-code-snippets.md",
-    "_pages/about.md",
-    "_posts copy/2019-02-13-introducing-reverie-jekyll-theme.md"
+    "_pages/about.md"
   ]
 }
