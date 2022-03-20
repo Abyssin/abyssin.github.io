@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "d2b73a0c9ee08e3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "598241617a78e28e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "archive.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e37b6b7c87b40801",
+    "type": "split",
+    "children": [
+      {
+        "id": "a442add1e70c2025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59abf034f13a23e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4406fb4757c7521f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cdc28d6f5266698",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ca2ab6319aa44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c75548602f75ccc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "archive.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "598241617a78e28e",
+  "lastOpenFiles": [
+    "archive.md",
+    "about.md",
+    "categories.md",
+    "getting-started.md",
+    "search.md"
+  ]
+}

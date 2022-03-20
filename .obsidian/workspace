@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9086722a12b40773",
+    "type": "split",
+    "children": [
+      {
+        "id": "179223035fb55275",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-03-19-sample-post.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3b84e63ed2ad062",
+    "type": "split",
+    "children": [
+      {
+        "id": "0610b2cceccd22d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96077759cb4435f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "153904ced2d3b0ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64feb7d5cccc5114",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b4b2e5c8db46b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c36b21e1eff4212a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-03-19-sample-post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "179223035fb55275",
+  "lastOpenFiles": [
+    "_posts/2022-03-19-sample-post.md",
+    "Templates/Post.md",
+    "_posts copy/2019-12-11-pullquotes.md",
+    "_posts copy/2019-8-12-code-snippets.md",
+    "_posts/2019-12-11-pullquotes.md",
+    "_posts/2019-08-08-no-title-posts.md",
+    "_posts/2019-02-13-introducing-reverie-jekyll-theme.md",
+    "_posts/2019-8-12-code-snippets.md",
+    "_pages/about.md",
+    "_posts copy/2019-02-13-introducing-reverie-jekyll-theme.md"
+  ]
+}
