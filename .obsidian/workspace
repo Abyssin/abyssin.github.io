@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-03-24-tree-ruffle-liverwort.md",
+            "file": "_pages/Reflection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-03-24-tree-ruffle-liverwort.md",
+                "file": "_pages/Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "179223035fb55275",
   "lastOpenFiles": [
+    "_pages/Reflection.md",
+    "_pages/search.md",
     "_posts/2022-03-24-tree-ruffle-liverwort.md",
     "_posts/2022-03-22-sword-fern.md",
     "_posts/2022-03-21-salal.md",
@@ -95,8 +97,6 @@
     "_posts copy/2019-02-13-introducing-reverie-jekyll-theme.md",
     "_posts copy/2019-7-27-super-long-article.md",
     "_posts copy/2019-7-27-this-post-demonstrates-post-content-styles.md",
-    "_posts copy/2019-7-28-super-short-article.md",
-    "_posts copy/2019-8-12-code-snippets.md",
-    "_pagescopy/about.md"
+    "_posts copy/2019-7-28-super-short-article.md"
   ]
 }
