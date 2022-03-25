@@ -5,18 +5,27 @@ categories:
 ---
 ## Taxonomy
 **Salal (_Polystichum munitum_)**
+
 **Phylum (Division):** Pteridophyta
+
 **Class:** Filicopsida
+
 **Order:** Polypodiales
+
 **Family:** Dryopteridaceae
+
 **Genus:** _Polystichum_
+
 **Species:** _munitum_
 
-![[IMG_20220321_141542.jpg]]
+
+![](IMG_20220321_141542.jpg)
 A _Polystichum munitum_ specimen growing in a yard.
 
-![[IMG_20220321_141648.jpg]]
+
+![](IMG_20220321_141648.jpg)
 The pinna of a frond, with the alternate leaf arrangement and asymmetric pinna shape visible.
+
 
 ## Identification
 Sword Ferns are large ferns, and are able to grow up to 1.5 M tall (Sword Fern • Polystichum Munitum, n.d.). The plant is evergreen, so it’s fronds are the best identification tool (Fern, Sword: Detailed, n.d.). The fronds emerge from the base of the fern as a rosette, giving the plant a circular footprint (Sword Fern • Polystichum Munitum, n.d.). Each frond is once pinnate, with distinctively shaped pinna alternating along its length (Sword Fern • Polystichum Munitum, n.d.). These pinna are on a short stem and are asymmetric, with an outgrowth near the base which resembles the hilt of a sabre that gives the plant its name (Sword Fern • Polystichum Munitum, n.d.). Pale yellow to dark orange sori are sometimes seen on the abaxial side of the pinna, but are not always present (Sword Fern • Polystichum Munitum, n.d.).
