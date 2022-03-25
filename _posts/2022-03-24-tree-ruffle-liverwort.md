@@ -20,15 +20,15 @@ categories:
 **Species:** _navicularis_
 
 
-![](IMG_20220323_161454.jpg)
+![](/images/IMG_20220323_161454.jpg)
 A magnolia tree with a number of bryophytes growing on it's trunk, including _Porella navicularis_.
 
 
-![](IMG_20220321_145928.jpg)
+![](/images/IMG_20220321_145928.jpg)
 _Porella navicularis_ and an unidentified moss. The overlapping upper "leaves" are visible.
 
 
-![](IMG_20220323_161133.jpg)
+![](/images/IMG_20220323_161133.jpg)
 The underside of a _Porella navicularis_ specimen, the upper leaf and it's small folded segment are highlighted.
 
 
@@ -43,5 +43,5 @@ The liverwort is generally found growing on the side of vertical surfaces, such 
 Liverworts contain a vast array of chemicals, often for defensive purposes, that are not found in other plants or organisms (Ludwiczuk & Asakawa, 2019). In this 1997 study, the researchers re-analyzed the chemicals present in Porella navicularis and found 4 new sesquiterpenes that had not been previously known (Bungert et al., 1998).
 
 ## Creative Component
-![](IMG_20220323_160611.png)
+![](/images/IMG_20220323_160611.png)
 A drawing of a miniature tower on a bryophyte covered tree.

@@ -19,11 +19,11 @@ categories:
 **Species:** _munitum_
 
 
-![](IMG_20220321_141542.jpg)
+![](/images/IMG_20220321_141542.jpg)
 A _Polystichum munitum_ specimen growing in a yard.
 
 
-![](IMG_20220321_141648.jpg)
+![](/images/IMG_20220321_141648.jpg)
 The pinna of a frond, with the alternate leaf arrangement and asymmetric pinna shape visible.
 
 
