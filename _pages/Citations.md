@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /reference/
 title: References
+permalink: /reference/
 ---
 
 Awoyemi, L., & Jones, I. P. (2011). Anatomical explanations for the changes in properties of western red cedar (Thuja plicata) wood during heat treatment. Wood Science and Technology, 45(2), 261–267. https://doi.org/10.1007/s00226-010-0315-9
