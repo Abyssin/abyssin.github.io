@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Reflection/
+permalink: /reflection/
 title: Reflection
 ---
 
