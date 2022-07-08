@@ -99,3 +99,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+issues_repo: Abyssin/abyssin.github.com

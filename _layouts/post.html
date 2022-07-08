@@ -35,5 +35,7 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>-->
 
-  {% include disqus.html %}
+{% if page.comments_id %}
+    {% include comments.html issue_id=page.comments_id %}
+{% endif %}
 </article>
