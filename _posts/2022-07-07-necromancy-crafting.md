@@ -5,6 +5,7 @@ categories:
 excerpt: Some crafting rules I stole and stuck together for a 5e game.
 comments_id: 1
 ---
+
 These are some rules I stole/stuck together to create a crafting system for a 5e game. They were specifically made for a necromancer priest, but should work just as well for other crafting with some modification. They've been only lightly tested.
 ## Fluff
 With the spread of society, with all its structure and expectations, spirits slipped from reality, to a separate and still land. Half slumbering, they seek to return and live once more amongst the folk they were spun from. Those with souls partially unmoored, capable of contacting and summoning these spirits are known as necromancers.

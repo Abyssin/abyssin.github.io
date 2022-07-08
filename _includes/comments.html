@@ -61,7 +61,7 @@
     // Reminder: this gets called when the viewport intersects with the comments section
     const initRenderComments = async (comments) => {
       if (!comments.length) {
-        commentsWrapper.innerHTML = `<p>No comments yet 👀 Be the first to post!</p>`;
+        commentsWrapper.innerHTML = `<p>No comments yet. Be the first to post!</p>`;
         return;
       }
 
@@ -114,6 +114,5 @@
       commentsWrapper.innerHTML = '';
       commentsWrapper.appendChild(commentsList);
     }
-
 </script>
 
