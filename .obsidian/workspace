@@ -7,9 +7,10 @@
         "id": "179223035fb55275",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "images/reverie.png"
+            "file": "_posts copy/2019-12-11-pullquotes.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/reverie.png",
+                "file": "_posts copy/2019-12-11-pullquotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "179223035fb55275",
   "lastOpenFiles": [
+    "_posts copy/2019-12-11-pullquotes.md",
+    "_posts/2022-07-07-necromancy-crafting.md",
+    "_posts copy/2019-8-12-code-snippets.md",
+    "_posts copy/2019-08-08-no-title-posts.md",
+    "_posts copy/2019-7-28-super-short-article.md",
+    "_posts copy/2019-7-27-this-post-demonstrates-post-content-styles.md",
+    "_posts copy/2019-7-27-super-long-article.md",
     "images/reverie.png",
     "images/mobile-demo.png",
-    "images/IMG_20220323_161454.jpg",
-    "_posts/2022-07-07-necromancy-crafting.md",
-    "Templates/Post.md",
-    "_1pagescopy/getting-started.md",
-    "_1pagescopy/about.md",
-    "_pages/search.md",
-    "_pages/categories.md",
-    "_pages/archive.md"
+    "images/IMG_20220323_161454.jpg"
   ]
 }
