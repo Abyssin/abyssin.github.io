@@ -1,11 +1,5 @@
 {% assign issues_repo = site.issues_repo %}
 {% assign issue_id = include.issue_id %}
-<script>
-  const commentsSection = document.getElementById('comments');
-  const commentsWrapper = commentsSection.querySelector('#comments-wrapper');
-  const commentsCount = commentsSection.querySelector('#comments-count');
-</script>
-
 <section id="comments">
   <div class="comment-actions">
     <h2>Comments <span id="comments-count"></span></h2>
@@ -22,6 +16,9 @@
 
 <!-- Comments script -->
 <script>
+const commentsSection = document.getElementById('comments');
+const commentsWrapper = commentsSection.querySelector('#comments-wrapper');
+const commentsCount = commentsSection.querySelector('#comments-count');
 const commentsObserver = new IntersectionObserver((entries, self) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
@@ -29,7 +26,7 @@ const commentsObserver = new IntersectionObserver((entries, self) => {
       self.unobserve(entry.target);
     }
   });
-}, { rootMargin: '200px 0px 0px 0px' });
+}, { rootMargin: '800px 0px 0px 0px' });
 
 commentsObserver.observe(commentsSection);
 const fetchComments = async () => {
