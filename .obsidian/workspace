@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts copy/2019-12-11-pullquotes.md",
+            "file": "_posts/2022-07-07-necromancy-crafting.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts copy/2019-12-11-pullquotes.md",
+                "file": "_posts/2022-07-07-necromancy-crafting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "179223035fb55275",
   "lastOpenFiles": [
-    "_posts copy/2019-12-11-pullquotes.md",
     "_posts/2022-07-07-necromancy-crafting.md",
+    "_posts copy/2019-12-11-pullquotes.md",
     "_posts copy/2019-8-12-code-snippets.md",
     "_posts copy/2019-08-08-no-title-posts.md",
     "_posts copy/2019-7-28-super-short-article.md",

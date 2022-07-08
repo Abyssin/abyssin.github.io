@@ -3,6 +3,7 @@ layout: post
 title: Unearthing Some 5e Necromancy Rules
 categories: 
 excerpt: Some crafting rules I stole and stuck together for a 5e game.
+comments_id: 1
 ---
 These are some rules I stole/stuck together to create a crafting system for a 5e game. They were specifically made for a necromancer priest, but should work just as well for other crafting with some modification. They've been only lightly tested.
 ## Fluff
