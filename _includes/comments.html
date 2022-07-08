@@ -99,7 +99,7 @@ const renderComments = (comments) => {
                     >
                     <div class="meta date-posted">commented <time datetime="${comment.created_at}">${datePosted}</time></div>
                     ${postedByAuthor ? '<span class="meta tag author-badge"></span>' : ''}
-                    ${edited ? `<span class="meta comment-edited">*edited*</span>` : ''}
+                    ${edited ? `<span class="meta comment-edited"><em>edited<em></span>` : ''}
                 </div>
                 <div class="comment-body">${body}</div>
             </li>`;
