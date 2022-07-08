@@ -60,17 +60,13 @@ const commentScripts = [
 // Reminder: this gets called when the viewport intersects with the comments section
 const initRenderComments = async (comments) => {
   if (!comments.length) {
-    commentsWrapper.innerHTML = `<p>No comments yet 👀 Be the first to post!</p>`;
+    commentsWrapper.innerHTML = `<p>No comments yet. Be the first to post!</p>`;
     return;
   }
 
   // Load all comment script dependencies async
   await Promise.all(commentScripts.map((script) => loadScript(script)));
   renderComments(comments);
-}
-
-const renderComments = (comments) => {
-  // Do rendering later
 }
 const renderComments = (comments) => {
   // load the relativeTime plugin for dayjs so we can express dates relative to now
