@@ -7,8 +7,7 @@ comments_id: 1
 ---
 These are some rules I cobbled together for a 5e game around a year ago. They were designed for a necromancer priest, but I think the underlying system could be used for other magical crafting.
 
-
-<center><img src="/images/oliver-odmark-hiss-deformed.jpg" alt="A corpse possessed by a void spirit."></center><center>Oliver Odmark</center>
+<center><img src="/images/cocoDrawing.png" alt="A girl drawing at her desk."></center><center>Witch Hat Atelier, by Kamome Shirahama</center>
 
 ## Bones
 This system doesn't use intricate recipes, but tries to encourage players to come up with compelling recipes themselves by having work done in excess of a basic recipe heavily weight the chance of success. Also, I've tried to combat the [potion problem](https://slugsandsilver.blogspot.com/2019/04/alchemists-and-resources-hard-nut-to.html) with **figments** as a limiting resource most easily generated through adventure in a way that (hopefully) doesn't feel too forced.
