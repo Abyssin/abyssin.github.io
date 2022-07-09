@@ -7,7 +7,7 @@ comments_id: 1
 ---
 These are some rules I cobbled together for a 5e game around a year ago. They were designed for a necromancer priest, but I think the underlying system could be used for other magical crafting.
 
-<center><img src="/images/cocoDrawing.png" alt="A girl drawing at her desk."></center><center>Witch Hat Atelier, by Kamome Shirahama</center>
+<center><img src="/images/cocoDrawing.png" alt="A girl drawing at her desk."></center><center>Witch Hat Atelier by Kamome Shirahama</center>
 
 ## Bones
 This system doesn't use intricate recipes, but tries to encourage players to come up with compelling recipes themselves by having work done in excess of a basic recipe heavily weight the chance of success. Also, I've tried to combat the [potion problem](https://slugsandsilver.blogspot.com/2019/04/alchemists-and-resources-hard-nut-to.html) with **figments** as a limiting resource most easily generated through adventure in a way that (hopefully) doesn't feel too forced.
@@ -37,6 +37,7 @@ With the spread of structure and rules, the spirits slipped away from reality. N
 
 Your soul is ajar, wounded in a way that is an opening. Through ritual, drugs, or dying, join the spirits in their sleeping realm. Take with you a figment which resonates with one of the slumbering spirits, and it will stir. Create a body, a vessel that can carry the spirit through the world. Make it cut through any pretenses of normalcy that could rebuke it. Call out once more, and the spirit will come.
 
-**Figment:** Emotionally resonant experiences. Ideally ones own.
+**Figment:** Emotionally resonant experiences. Ideally one's own.
 
 **Form:** Human remains, abandoned things, and nonsense. Intricate metalwork adornments, often mechanical.
+<br><br><br>
