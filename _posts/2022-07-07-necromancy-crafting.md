@@ -7,10 +7,14 @@ comments_id: 1
 ---
 These are some rules I cobbled together for a 5e game around a year ago. They were designed for a necromancer priest, but I think the underlying system could be used for other magical crafting.
 
+
+<center><img src="/abyssin.github.io/images/oliver-odmark-hiss-deformed.jpg" alt="A corpse possessed by a void spirit."></center><center>Oliver Odmark</center>
+
 ## Bones
 This system doesn't use intricate recipes, but tries to encourage players to come up with compelling recipes themselves by having work done in excess of a basic recipe heavily weight the chance of success. Also, I've tried to combat the [potion problem](https://slugsandsilver.blogspot.com/2019/04/alchemists-and-resources-hard-nut-to.html) with **figments** as a limiting resource most easily generated through adventure in a way that (hopefully) doesn't feel too forced.
 
-Those modifications aside, this is basically just a skill challenge from 4e. If you're unfamiliar with this, it's basically a series of player initiated checks in a mildly abstracted scenario, with the outcome of each check adding up to either an overall success or failure. A skill check will have a **DC** that the checks are made against, and a **complexity**, which is the number of successful checks that must occur before three failures for an overall success.
+Those modifications aside, this is basically just a skill challenge from 4e. If you're unfamiliar with those, they're basically a series of player initiated checks in a mildly abstracted scenario, with the outcome of each check adding up to either an overall success or failure. A skill check will have a **DC** that the checks are made against, and a **complexity**, which is the number of successful checks that must occur before three failures for an overall success.
+<br>
 
 #### Steps
 1. A player who has a **figment** proposes an item, magical effect, or the like that suits the figment and their character's style of crafting. Assuming this is approved by the GM, the GM and the player work to come up with a rudimentary list of essential ingredients; like bones and onyx for a skeleton, or etching acid and gems for a sword.
@@ -29,13 +33,9 @@ Those modifications aside, this is basically just a skill challenge from 4e. If 
 	</details>
 
 ## Skin
-With the spread of society, with all its structure and expectations, spirits slipped from reality, to a separate and still land. Half slumbering, they seek to return and live once more amongst the folk they were spun from. Those with souls partially unmoored, capable of contacting and summoning these spirits are known as necromancers.
+With the spread of structure and rules, the spirits slipped away from reality. Now they lie elsewhere, dreaming of freedom. 
+<center><img src="/abyssin.github.io/images/soilAdrift.png" alt="Man asphyxiates to see fish."></center><center>Soil by Atsushi Kaneko</center>
 
-The first step of the necromancer's work is to gather suitable materials. Materially, dead and broken things are suitable for the vessel. Metaphysically, a strong emotional or experiential element is required to serve as a conceptual beacon. Personal experiences are the easiest to use, although the emotions of others or memories of objects can also work.
-
-![[Pasted image 20220708145856.png]]
-In the second step, contact must be made with the spirit. Drugs, physical exhaustion, isolation, and more may be used, all with the effect of slipping part way from reality. Once there, the conceptual element is used to stir a spirit from stasis and draw it to the necromancer. Communication, and the establishment of contracts also occurs at this stage.
-
-The third step is the creation of a body for the spirit to inhabit. In addition to letting the spirit interact with the physical world, the vessel must also cut a space in mundane reality for the spirit to manifest. This is most often achieved by invoking death or violence, although any challenge to normalcy can work.
-
-If the above steps are carried out correctly, the desired spirit will fill in the vessel and animate it. No longer driven by a driving desire for freedom, the demands and desires of a spirit often grow increasingly diverse as they spend time in the world, and renegotiation is needed to maintain them.
+Your soul is ajar, wounded in a way that is an opening. Through ritual, drugs, or dying, join the spirits in their sleeping realm. Take with you a figment which resonates with one of the slumbering spirits, and it will stir. Create a body, a vessel that can carry the spirit through the world. Make it cut through any pretenses of normalcy that could rebuke it. Call out once more, and the spirit will come.
+**Figment:** Emotionally resonant experiences. Ideally ones own.
+**Form:** Human remains, abandoned things, and nonsense. Intricate metalwork adornments, often mechanical.
